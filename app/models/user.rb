@@ -13,7 +13,15 @@ class User < ApplicationRecord
   end
 
   def last_name
-    self.name.split.last 
+    self.name.split.last
   end
+end
 
+def get_facebood_messages
+  begin
+    contacts_fb
+    @messages = retrieves_messages
+  rescue IOError => e
+    flash[:error] = "Error occured contacting Facebook: #{e}"
+  end
 end
