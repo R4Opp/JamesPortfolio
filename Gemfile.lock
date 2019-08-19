@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/R4Opp/JamesPort_view_tool
+  revision: dde0f7ce8e7c366f3091a37e144d226931ef5745
+  specs:
+    JamesPort_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -207,6 +213,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  JamesPort_view_tool!
   bootsnap (>= 1.1.0)
   bootstrap (~> 4.3.1)
   byebug
