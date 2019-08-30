@@ -231,7 +231,7 @@ PLATFORMS
 DEPENDENCIES
   JamesPort_view_tool!
   bootsnap (>= 1.1.0)
-  bootstrap (~> 4.3.1)
+  bootstrap (~> 4.3, >= 4.3.1)
   byebug
   coffee-rails (~> 4.2)
   devise (~> 4.6, >= 4.6.2)
