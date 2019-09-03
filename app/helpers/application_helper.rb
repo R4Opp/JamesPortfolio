@@ -17,6 +17,6 @@ module ApplicationHelper
   end
 
   def copyright_generator
-    JamesPortViewTool::Renderer.copyright 'James Hudson', 'All right reserved'
+    JamesPortViewTool::Renderer.copyright 'James Hudson', 'All rights reserved'
   end
 end
