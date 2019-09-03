@@ -48,7 +48,7 @@ puts "5 skills created."
     cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
     est laborum.",
     main_image: "https://via.placeholder.com/600X400",
-    thumb_image: "https://via.placeholder.com/356X280"
+    thumb_image: "https://via.placeholder.com/310X280"
   )
 end
 
@@ -64,7 +64,7 @@ end
     cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
     est laborum.",
     main_image: "https://via.placeholder.com/600X400",
-    thumb_image: "https://via.placeholder.com/356X280"
+    thumb_image: "https://via.placeholder.com/310X280"
   )
 end
 
